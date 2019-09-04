@@ -1,0 +1,23 @@
+html body {
+  background-color: #000000;
+}
+
+h1 {
+  color: #EEEEEE;
+  text-align: center;
+  font-size: 75px
+}
+
+h2 {
+  color: #F8BBD0;
+  text-align: left;
+}
+
+h3 {
+  color: #F8BBD0;
+  text-align: left;
+  list-style: decimal;
+}
+li{
+  color: #85C1E9;
+}

@@ -1,23 +1,24 @@
 html body {
-  background-color: #000000;
+  background-image: radial-gradient( white, lightblue, lightpink, lightgreen);
 }
 
 h1 {
-  color: #EEEEEE;
+  color: #000000;
   text-align: center;
+  font-family: 'Indie Flower', cursive;
   font-size: 75px
 }
 
 h2 {
-  color: #F8BBD0;
+  color: white;
   text-align: left;
 }
 
-h3 {
-  color: #F8BBD0;
-  text-align: left;
-  list-style: decimal;
-}
 li{
-  color: #85C1E9;
+  color: black;
+  font-size: 25px;
+}
+img{
+  width: 5%;
+  opacity: inherit;
 }

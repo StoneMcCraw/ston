@@ -10,8 +10,12 @@ h1 {
 }
 
 h2 {
-  color: white;
-  text-align: left;
+  color: black;
+  text-align: center;
+  border-style: solid;
+  border-radius: 200%;
+  border-width: thick;
+  border-color: white;
 }
 
 li{
